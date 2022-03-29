@@ -1,0 +1,30 @@
+.quadrado2{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: yellow;
+    float: left;
+}
+
+.quadrado3{
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: orange;
+    float: right;
+}
+
+.barra {
+    width: 550px;
+    height: 10px;
+    background-color: pink;
+    clear: both;
+    margin-left: 20px;
+}
+
+.quadrado{
+    width: 600px;
+    height: 300px;
+    border: 1px;
+    background-color: black;
+}
